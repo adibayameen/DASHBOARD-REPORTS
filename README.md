@@ -35,17 +35,15 @@ It includes:
 ---
 
 ## 📂 Repository Structure
-
 ```text
 Automotive-Sales-Insights/
-├── CAR SALES.pbit      # Power BI file
-├── PNG 1.png           # Dashboard screenshot 1
-├── PNG 2.png           # Dashboard screenshot 2
-└── README.md           # Documentation
+├── dashboards/             # All dashboards + visuals
+│   ├── CAR SALES.pbit
+│   ├── PNG 1.png
+│   └── PNG 2.png
+└── README.md               # Documentation
 ```
-
 ---
-
 ## 🚀 How to Use
 
 1. Clone this repo:
