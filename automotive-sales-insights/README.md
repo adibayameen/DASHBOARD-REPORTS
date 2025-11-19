@@ -65,6 +65,10 @@ Automotive-Sales-Insights/
 | ![Dashboard 1](PNG%201.png) |
 | ![Dashboard 2](PNG%202.png) |
 
+
+https://github.com/user-attachments/assets/e763abb3-54a9-4a5b-8aca-0b07b55ee83d
+
+
 ---
 
 ## 📈 What You’ll Learn
