@@ -65,6 +65,10 @@ Business-Sales-Insights/
 | ---------------------------- |
 | ![Dashboard Sample](PNG.png) |
 
+
+https://github.com/user-attachments/assets/61837153-71b8-4b12-a893-a28868e7386d 
+
+
 ---
 
 ## Insights You’ll Gain
